@@ -1,0 +1,64 @@
+<h1 align="center">👋 Hi, I'm Beyza Karaşahan</h1>
+
+<p align="center">
+🛰️ Network Engineer in Progress | CCNA Candidate <br>
+🖥️ Full-Stack Developer (Next.js + Django) <br>
+🔐 Security-Focused & Tech-Driven <br>
+</p>
+
+---
+
+### 📌 About Me
+- 🎯 My main career goal is to become a Network Engineer with strong infrastructure and security knowledge.
+- 🌍 I actively develop Full-Stack projects using **Next.js** and **Django** to strengthen my software engineering skills.
+- 🔐 I am passionate about networking, system security, scalable architectures, and high-performance web applications.
+- 🚀 I aim to become a versatile engineer who creates value in both network and software domains.
+
+---
+
+### ⚙️ Tech Stack
+
+**Full-Stack & Tools**
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs,django,react,ts,js,python,html,css,tailwind,git,github,vscode,postgres,mysql,docker" />
+</p>
+
+**Networking**
+<p>
+<img src="https://skillicons.dev/icons?i=linux" />
+</p>
+
+📡 Cisco Packet Tracer | Routing & Switching | Subnetting | IPv4/IPv6
+
+---
+
+### 📊 GitHub Analytics
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=beyzakarasahann&show_icons=true&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beyzakarasahann&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p>
+<img src="https://github-profile-trophy.vercel.app/?username=beyzakarasahann&theme=tokyonight&no-frame=true&row=1"/>
+</p>
+
+---
+
+### 🧊 Contributor Stats
+<p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=beyzakarasahann&theme=tokyonight" height="150"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=beyzakarasahann&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+### 🐍 Contributions Snake
+<p align="center">
+<img src="https://raw.githubusercontent.com/beyzakarasahann/beyzakarasahann/output/github-contribution-grid-snake.svg">
+</p>
+
+---
