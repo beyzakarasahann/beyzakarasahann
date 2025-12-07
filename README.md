@@ -55,10 +55,5 @@
 </p>
 
 ---
-
-### 🐍 Contributions Snake
-<p align="center">
-<img src="https://raw.githubusercontent.com/beyzakarasahann/beyzakarasahann/output/github-contribution-grid-snake.svg">
-</p>
-
----
+### ⭐ Top Contributed Repositories
+[![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=beyzakarasahann&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)](https://github.com/beyzakarasahann)
