@@ -58,6 +58,15 @@
 ### ⭐ Top Contributed Repositories
 [![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=beyzakarasahann&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)](https://github.com/beyzakarasahann)
 
-### 💎 Dominant Contributor In Team Projects
-[![Contributor Ranking](https://github-contributor-stats.vercel.app/api?username=beyzakarasahann&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)](https://github.com/beyzakarasahann?tab=repositories)
+### 👑 Leader Contributor in Team Projects
+
+#### AcRate
+![AcRate Contributors](https://contrib.rocks/image?repo=beyzakarasahann/AcRate)
+
+#### focuzon
+![focuzon Contributors](https://contrib.rocks/image?repo=beyzakarasahann/focuzon)
+
+#### Shopion
+![Shopion Contributors](https://contrib.rocks/image?repo=beyzakarasahann/Shopion)
+
 
