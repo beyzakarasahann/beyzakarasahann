@@ -43,5 +43,10 @@
 ### ⭐ Top Contributed Repositories
 [![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=beyzakarasahann&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)](https://github.com/beyzakarasahann)
 
-![AcuRate Contribution Stats](https://github-contributor-stats.vercel.app/api/contributions?username=beyzakarasahann&repo=AcuRate&theme=light)
+
+[![AcuRate Badge](https://github-readme-stats.vercel.app/api/pin/?username=beyzakarasahann&repo=AcuRate&theme=tokyonight)](https://github.com/beyzakarasahann/AcuRate)
+
+[![Focuzon Badge](https://github-readme-stats.vercel.app/api/pin/?username=beyzakarasahann&repo=focuzon&theme=tokyonight)](https://github.com/beyzakarasahann/focuzon)
+
+[![Shopion Badge](https://github-readme-stats.vercel.app/api/pin/?username=beyzakarasahann&repo=Shopion&theme=tokyonight)](https://github.com/beyzakarasahann/Shopion)
 
