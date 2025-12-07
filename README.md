@@ -43,6 +43,5 @@
 ### ⭐ Top Contributed Repositories
 [![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=beyzakarasahann&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)](https://github.com/beyzakarasahann)
 
-
-![AcuRate Contribution Stats](https://github-contributor-stats.vercel.app/api/contributions?username=beyzakarasahann&repo=AcuRate&theme=tokyonight)
+![AcuRate Contribution Stats](https://github-contributor-stats.vercel.app/api/contributions?username=beyzakarasahann&repo=AcuRate&theme=light)
 
