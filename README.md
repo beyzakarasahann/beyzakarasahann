@@ -46,4 +46,8 @@
 ### ⭐ Top Contributed Repositories
 [![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=beyzakarasahann&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)](https://github.com/beyzakarasahann)
 
+![Profile Views](https://komarev.com/ghpvc/?username=beyzakarasahann&color=blue&style=flat)
+![Followers](https://img.shields.io/github/followers/beyzakarasahann?style=social)
+![Stars](https://img.shields.io/github/stars/beyzakarasahann?style=social)
+
 
