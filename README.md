@@ -32,21 +32,6 @@
 
 ---
 
-### 📊 GitHub Analytics
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=beyzakarasahann&show_icons=true&theme=tokyonight" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beyzakarasahann&layout=compact&theme=tokyonight" height="170"/>
-</p>
-
----
-
-### 🏆 GitHub Trophies
-<p>
-<img src="https://github-profile-trophy.vercel.app/?username=beyzakarasahann&theme=tokyonight&no-frame=true&row=1"/>
-</p>
-
----
 
 ### 🧊 Contributor Stats
 <p>
@@ -59,6 +44,5 @@
 [![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=beyzakarasahann&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)](https://github.com/beyzakarasahann)
 
 
-![AcuRate Contributors](https://contrib.rocks/image?repo=beyzakarasahann/AcuRate)
-)
+![AcuRate Contribution Stats](https://github-contributor-stats.vercel.app/api/contributions?username=beyzakarasahann&repo=AcuRate&theme=tokyonight)
 
