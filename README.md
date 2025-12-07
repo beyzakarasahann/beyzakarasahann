@@ -7,11 +7,8 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=beyzakarasahann&theme=tokyonight&hide_border=true)
 ---
-### ⭐ Top Contributed Repositories
-[![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=beyzakarasahann&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)](https://github.com/beyzakarasahann)
+### 🔥 My Commits
 
-### 📊 My Personal Commit Count (Repo-Based)
-
-![AcuRate](https://contributions.lol/beyzakarasahann/AcuRate?label=AcuRate&style=for-the-badge&color=8A2BE2)
-![focuzon](https://contributions.lol/beyzakarasahann/focuzon?label=focuzon&style=for-the-badge&color=1E90FF)
-![Shopion](https://contributions.lol/beyzakarasahann/Shopion?label=Shopion&style=for-the-badge&color=00CED1)
+![AcuRate](https://img.shields.io/badge/AcuRate-131_commits-purple?style=for-the-badge)
+![focuzon](https://img.shields.io/badge/focuzon-92_commits-blue?style=for-the-badge)
+![Shopion](https://img.shields.io/badge/Shopion-71_commits-cyan?style=for-the-badge)
