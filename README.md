@@ -7,5 +7,5 @@
   🧩 Core Team Member @ <a href="https://www.vrege.com">Vrege</a><br>
 </p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=beyzakarasahann&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=beyzakarasahann)](https://git.io/streak-stats)
 
