@@ -2,7 +2,6 @@
 
 <p>
   🎓 3rd-year Computer Engineering Student  <br>
-  🛰️ Network Engineer in Progress | CCNA Candidate <br>
-  🧩 Core Team Member @ <a href="https://www.vrege.com">Vrege</a><br>
+  🧩 Team Member @ <a href="https://www.vrege.com">Vrege</a><br>
 </p>
 
